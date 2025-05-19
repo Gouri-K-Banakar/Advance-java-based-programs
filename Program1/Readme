@@ -45,6 +45,7 @@ l_listobj.offerLast("Pink"))
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20231852.png)
 
 
-Write a Java program to display elements and their positions in a linked list ( using
+ DisplayElementsWithPosition : Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
+Solution -> (
 
