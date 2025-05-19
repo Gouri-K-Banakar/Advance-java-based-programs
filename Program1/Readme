@@ -33,4 +33,5 @@ Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob
 
 LinkedListIteratorExample : Write a Java program to iterate through all elements in a linked list starting at the
 specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
+Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20231158.png)
 
