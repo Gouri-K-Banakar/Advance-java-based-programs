@@ -6,3 +6,8 @@ Buttonpressed : Develop a Swing program in Java to display a message “Srilanka
 pressed” depending upon the Jbutton either Srilanka or India is pressed by implementing the
 event handling mechanism with addActionListener( ).
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program4/Screenshot%202025-05-18%20112331.png)
+
+Clocktype : Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
+Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
+pressed by implementing the event handling mechanism with addActionListener( ).
+Solution -> (
