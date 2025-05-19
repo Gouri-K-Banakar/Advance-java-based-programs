@@ -11,8 +11,7 @@ ColorSearchDemo : Write a java program for getting different colors through Arra
 the color "Red" is available or not
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20215532.png)
 
-ColorRemoveDemo : 
 
-
-
-Solution -> (
+ColorRemoveDemo : Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color "Blue" from the ArrayList
+Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20225548.png)
