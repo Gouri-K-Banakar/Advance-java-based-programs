@@ -24,3 +24,8 @@ Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob
 PalindromeChecker : Write a Java Program for Checking if a string reads the same backward as forward (ignoring case
 and punctuation) using user defined function isPalindrome()
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20001444.png)
+
+
+WhitespaceRemover : Write a Java Program for Eliminating all whitespace characters from a string using user defined
+function removeWhitespace()
+Solution -> (
