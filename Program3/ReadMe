@@ -14,3 +14,8 @@ Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob
 SubstringCounter : Write a Java Program for Counting how many times a substring appears in a main string
 using user defined function countOccurrences()
 Solution ->(https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20000744.png) 
+
+
+StringReverse :Write a Java Program for Reversing the characters in a string using user defined function
+reverseString()
+Solution -> (
