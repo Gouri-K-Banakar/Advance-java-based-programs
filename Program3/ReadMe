@@ -34,3 +34,8 @@ Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob
 CapitalizeWords : Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
 Solution : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20002037.png)
+
+
+StringTruncator : Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
+defined function truncate()
+Solution -> 
