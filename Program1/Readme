@@ -22,7 +22,7 @@ using Collections.sort( ArrayListObj)
 Solution ->(https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20225955.png)
 
 
-ColorListDemo : 
-
-Solution -> (
+ColorListDemo : Write a java program for getting different colors through ArrayList interface and extract the
+elements 1st and 2nd from the ArrayList object by using SubList()
+Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20230337.png)
 
