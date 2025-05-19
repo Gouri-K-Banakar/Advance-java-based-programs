@@ -77,3 +77,7 @@ String Splitting, StringBuilder Demo, String Formatting , Validate Email with co
 startsWith() and endsWith()
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20234939.png)
 
+NullOrEmptyCheck : Write a Java Program for Checking if a given string is null or contains only whitespace using user
+defined function isNullOrEmpty().
+Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-18%20000310.png)
+
