@@ -39,3 +39,8 @@ Solution : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/
 StringTruncator : Q7. Write a Java Program for Shortening a string to a specified length and adds an ellipsis using user
 defined function truncate()
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20002532.png)
+
+
+NumericChecker : Write a Java Program for Verifying if a string contains only numeric characters using user defined
+function isNumeric()
+Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20002843.png)
