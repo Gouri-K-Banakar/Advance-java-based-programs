@@ -51,6 +51,6 @@ function generateRandomString()
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20003150.png)
 
 
-WordCounter : 
-
-Solution -> (
+WordCounter : Write a Java Program for Counting the number of words in a string using user defined function
+countWords()
+Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20003438.png)
