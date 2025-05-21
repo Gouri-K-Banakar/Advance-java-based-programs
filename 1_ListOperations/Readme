@@ -12,14 +12,9 @@ ColorListManager : Write a java program for getting different colors through Arr
 element from the ArrayList object by using remove by index
 Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20230732.png)
 
-LinkedListIteratorExample : Write a Java program to iterate through all elements in a linked list starting at the
-specified position ( 2nd) using iterator ( hint : Iterator iteratorobj = listobj.listIterator(1))
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20231158.png)
+LinkedListIteratorExample : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/Iterating.png)
 
-ReverseLinkedList : Write a Java program to iterate a linked list in reverse order (using
-objlist.descendingIterator())
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20231535.png)
-
+ReverseLinkedList : (
 
 InsertAtEndExample : Write a Java program to insert the specified element at the end of a linked list.( using
 l_listobj.offerLast("Pink"))
