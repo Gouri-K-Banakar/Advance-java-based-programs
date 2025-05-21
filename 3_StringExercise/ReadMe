@@ -14,10 +14,7 @@ StringReverse Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-pr
 
 PalindromeChecker Output : (
 
-WhitespaceRemover : Write a Java Program for Eliminating all whitespace characters from a string using user defined
-function removeWhitespace()
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20001747.png)
-
+WhitespaceRemover Output : (
 
 CapitalizeWords : Write a Java Program for Capitalizing the first letter of each word. using user defined function
 capitalizeWords()
