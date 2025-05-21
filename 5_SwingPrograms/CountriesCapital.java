@@ -1,6 +1,6 @@
-//Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
-display the concerned color whenever the specific tab is selected in the Pan.package javaass;
-
+//Develop a Swing program in Java to add the countries USA, India, Vietnam, Canada,
+Denmark, France, Great Britain, Japan, Africa, Greenland, Singapore into a JList and
+display the capital of the countries on console whenever the countries are selected on the list.
 import javax.swing.*;
 import javax.swing.event.*;
 import java.util.*;
