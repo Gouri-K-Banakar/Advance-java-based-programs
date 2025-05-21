@@ -4,11 +4,9 @@ ColorSearchDemo Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-
 
 ColorRemoveDemo  Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/ColorRemove.png)
 
-ColorSort Output : (
-ColorListDemo : Write a java program for getting different colors through ArrayList interface and extract the
-elements 1st and 2nd from the ArrayList object by using SubList()
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20230337.png)
+ColorSort Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/ColorSort.png)
 
+ColorListDemo Output : (
 
 ColorListManager : Write a java program for getting different colors through ArrayList interface and delete nth
 element from the ArrayList object by using remove by index
