@@ -1,10 +1,4 @@
-StringHandlingDemo : Develop a java program for performing various string operations with different string
-handling functions directed as follows:
-String Creation and Basic Operations, Length and Character Access, String Comparison, String
-Searching, Substring Operations , String Modification, Whitespace Handling, String Concatenation,
-String Splitting, StringBuilder Demo, String Formatting , Validate Email with contains( ) and
-startsWith() and endsWith()
-Solution : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-17%20234939.png)
+StringHandlingDemo Output : (
 
 NullOrEmptyCheck  Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/NullOrEmpty.png)
 
@@ -18,13 +12,11 @@ WhitespaceRemover Output : (https://github.com/Gouri-K-Banakar/Advance-java-base
 
 CapitalizeWords Output : (
 
-
 StringTruncator Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/StringTruncator.png)
-
 
 NumericChecker Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/Numeric%20Checker.png)
 
 RandomStringGenerator Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/Random%20string%20Generator.png)
 
-WordCounter Output : 
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20003438.png)
+WordCounter Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/wordcounter.png)
+
