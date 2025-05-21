@@ -1,4 +1,7 @@
-package adjjava;
+*/Write a Java program to display elements and their positions in a linked list ( using
+l_listobj.get(p) )*/
+	
+	package adjjava;
 import java.util.LinkedList;
 
 public class DisplayElementsWithPositions {
