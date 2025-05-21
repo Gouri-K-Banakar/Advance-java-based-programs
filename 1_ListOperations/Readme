@@ -14,12 +14,9 @@ Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob
 
 LinkedListIteratorExample : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/Iterating.png)
 
-ReverseLinkedList : (
+ReverseLinkedList : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/Iterating%20in%20reverse.png)
 
-InsertAtEndExample : Write a Java program to insert the specified element at the end of a linked list.( using
-l_listobj.offerLast("Pink"))
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20231852.png)
-
+InsertAtEndExample : (
 
  DisplayElementsWithPosition : Write a Java program to display elements and their positions in a linked list ( using
 l_listobj.get(p) )
