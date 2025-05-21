@@ -16,12 +16,9 @@ LinkedListIteratorExample : (https://github.com/Gouri-K-Banakar/Advance-java-bas
 
 ReverseLinkedList : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/Iterating%20in%20reverse.png)
 
-InsertAtEndExample : (
+InsertAtEndExample : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/adding%20pink.png)
 
- DisplayElementsWithPosition : Write a Java program to display elements and their positions in a linked list ( using
-l_listobj.get(p) )
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20232230.png)
-
+ DisplayElementsWithPosition : (
 SwapElementsInLinkedList : Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
 Collections.swap(l_list, 0, 2))
 Solution : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20232757.png)
