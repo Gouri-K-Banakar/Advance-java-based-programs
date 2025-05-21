@@ -1,10 +1,5 @@
-HelloSwing : Basic hello program of Swing displaying the message Hello! VI C , Welcome to Swing
-Programming in Blue color plain font with font size of 32 using Jframe and Jlabel
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program4/Screenshot%202025-05-18%20110239.png)
+4a_HelloSwing OutPut : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/4_SwingPrograms/helloswing.png)
 
 4b_Buttonpressed OutPut : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/4_SwingPrograms/buttonpressed.png)
 
-Clocktype : Develop a Swing program in Java to display a message “Digital Clock is pressed” or “Hour
-Glass is pressed” depending upon the Jbutton with image either Digital Clock or Hour Glass is
-pressed by implementing the event handling mechanism with addActionListener( ).
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program4/Screenshot%202025-05-18%20113916.png)
+4c_Clocktype Output :
