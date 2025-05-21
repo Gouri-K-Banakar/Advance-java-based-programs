@@ -1,11 +1,7 @@
 ListOpsDemo Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/ListOperation%20OutPut.png)
 
-ColorSearchDemo Output : (
-ColorRemoveDemo : Write a java program for getting different colors through ArrayList interface and remove the
-2nd element and color "Blue" from the ArrayList
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20225548.png)
-
-
+ColorSearchDemo Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/ColorSearch.png)
+ColorRemoveDemo  Output : (
 ColorSort : Write a java program for getting different colors through ArrayList interface and sort them
 using Collections.sort( ArrayListObj)
 Solution ->(https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20225955.png)
