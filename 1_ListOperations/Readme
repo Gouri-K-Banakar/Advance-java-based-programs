@@ -18,9 +18,9 @@ ReverseLinkedList : (https://github.com/Gouri-K-Banakar/Advance-java-based-progr
 
 InsertAtEndExample : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/adding%20pink.png)
 
- DisplayElementsWithPosition : (
-SwapElementsInLinkedList : Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
-Collections.swap(l_list, 0, 2))
+ DisplayElementsWithPosition : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/1_ListOperations/elements%20and%20position.png)
+
+SwapElementsInLinkedList : (
 Solution : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program1/Screenshot%202025-05-17%20232757.png)
 
 
