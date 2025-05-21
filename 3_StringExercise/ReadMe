@@ -22,12 +22,9 @@ CapitalizeWords Output : (
 StringTruncator Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/StringTruncator.png)
 
 
-NumericChecker Output : (
+NumericChecker Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/Numeric%20Checker.png)
 
-RandomStringGenerator : Write a Java Program for Creating a random string of a specified length using user defined
-function generateRandomString()
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20003150.png)
-
+RandomStringGenerator : (
 
 WordCounter : Write a Java Program for Counting the number of words in a string using user defined function
 countWords()
