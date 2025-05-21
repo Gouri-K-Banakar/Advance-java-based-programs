@@ -1,4 +1,8 @@
-import java.util.Collections;
+*/Write a Java program that swaps two elements ( first and third elements ) in a linked list ( using
+Collections.swap(l_list, 0, 2))*/
+
+	
+	import java.util.Collections;
 	import java.util.LinkedList;
 
 public class SwapElementsInLinkedList {
