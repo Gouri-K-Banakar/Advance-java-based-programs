@@ -1,4 +1,7 @@
-package adjjava;
+*/Write a Java program to iterate a linked list in reverse order (using
+objlist.descendingIterator())*/
+	
+	package adjjava;
 import java.util.LinkedList;
 import java.util.Iterator;
 public class ReverseLinkedListIteration {
