@@ -19,11 +19,10 @@ WhitespaceRemover Output : (https://github.com/Gouri-K-Banakar/Advance-java-base
 CapitalizeWords Output : (
 
 
-StringTruncator Output : (
-NumericChecker : Write a Java Program for Verifying if a string contains only numeric characters using user defined
-function isNumeric()
-Solution -> (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/Program3/Screenshot%202025-05-18%20002843.png)
+StringTruncator Output : (https://github.com/Gouri-K-Banakar/Advance-java-based-programs/blob/main/3_StringExercise/StringTruncator.png)
 
+
+NumericChecker Output : (
 
 RandomStringGenerator : Write a Java Program for Creating a random string of a specified length using user defined
 function generateRandomString()
