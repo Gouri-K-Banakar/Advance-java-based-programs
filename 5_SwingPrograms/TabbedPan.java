@@ -1,5 +1,6 @@
-//Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
-display the concerned color whenever the specific tab is selected in the Pan.
+*/Develop a Swing program in Java to create a Tabbed Pan of RED, BLUE and GREEN and
+display the concerned color whenever the specific tab is selected in the Pan.*/
+	
 package javaass;
 import javax.swing.*;
 import java.awt.*;
